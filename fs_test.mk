@@ -1,4 +1,5 @@
 
+# Test targets
 ifeq ($(OS),Windows_NT)
 LWEXT4_CLIENT = @build_generic\\fs_test\\lwext4-client
 LWEXT4_SERVER = @build_generic\\fs_test\\lwext4-server
